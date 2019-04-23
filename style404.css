@@ -1,0 +1,12 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1e/Gradient-optical-illusion.svg);
+  max-width: 100%;
+}
+h1, p {
+  font-family: 'Anton', sans-serif;
+}
